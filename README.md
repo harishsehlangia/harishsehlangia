@@ -6,7 +6,7 @@ understanding *why things work* instead of rushing for results.
 ---
 ## 📫 Contact :
 - X : https://x.com/harishsehlangia
-- LinkedIn: https://www.linkedin.com/in/harishsehlangia/
+- LinkedIn : https://www.linkedin.com/in/harishsehlangia/
 ---
 ## 🛠️ Tech Stack & Tools
 - JavaScript, C++, HTML, CSS
