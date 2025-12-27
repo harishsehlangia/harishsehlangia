@@ -13,6 +13,7 @@ understanding *why things work* instead of rushing for results.
 - React, Modern CSS practices, Tailwind
 - Node.js, Express.js, MongoDB
 - Git & GitHub, Postman
+- AWS
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishsehlangia&layout=compact&theme=tokyonight)
 ---
