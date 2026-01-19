@@ -15,5 +15,5 @@ understanding *why things work* instead of rushing for results.
 - Git & GitHub, Postman
 - AWS
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishsehlangia&layout=compact&theme=tokyonight)
----
+
+
