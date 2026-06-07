@@ -5,7 +5,6 @@ Computer Science student focused on becoming a solid software engineer by buildi
 understanding *why things work* instead of rushing for results.
 ---
 ## 📫 Contact :
-**Let's Connect on X(Twitter), I'll Follow Back.**
 - **X :** **https://x.com/harishsehlangia**
 - LinkedIn : https://www.linkedin.com/in/harishsehlangia/
 ---
